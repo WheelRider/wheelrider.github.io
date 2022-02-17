@@ -21,7 +21,7 @@
 }
 
 
-#Section2
+#about
 {
     color: rgb(0, 0, 0);
     font-size: 25px;
@@ -121,7 +121,7 @@ section
   color: white;
 }
 
-#Section2 button
+#about button
 {
   display: inline-block;
   font-size: small;
@@ -140,7 +140,7 @@ section
   border-color: black;
 }
 
-#Section2 button:hover
+#about button:hover
 {
   letter-spacing: 7px;
   background: rgb(0, 0, 0);
